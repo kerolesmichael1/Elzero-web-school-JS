@@ -150,7 +150,7 @@ console.log(!(a > b) && !(a == b) && !(a === c) && !(a < c)); // true
 // }
 */
 
-/*Switch Statement */
+/*Switch Statement 
 
 let day = "   friday  ";
 
@@ -177,6 +177,7 @@ switch (day) {
   default:
     console.log("Its Not A Valid Day");
 }
+    */
 /* challenge
 let a = 10;
 // Task #01
